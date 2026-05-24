@@ -40,7 +40,7 @@ while True:
 ## OUTPUT
 CLIENT:
 
-<img width="1600" height="898" alt="CN_2ac" src="https://github.com/user-attachments/assets/325b9605-8a33-4781-ba9e-1b6a34353b32" />
+https://github.com/jayashreejambulingam2008-png/2a_Stop_and_Wait_Protocol/blob/main/CN_2ac.jpeg
 
 
 SERVER:
