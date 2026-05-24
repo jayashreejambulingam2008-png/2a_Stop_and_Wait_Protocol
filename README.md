@@ -39,10 +39,14 @@ while True:
 
 ## OUTPUT
 CLIENT:
-![Client image]CN_2ac.jpeg
+
+<img width="1600" height="898" alt="CN_2ac" src="https://github.com/user-attachments/assets/325b9605-8a33-4781-ba9e-1b6a34353b32" />
+
 
 SERVER:
-<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/18fa7986-a5bb-4ba6-8f7d-d7117be93695" />
+
+<img width="1600" height="895" alt="CN_2as" src="https://github.com/user-attachments/assets/70f606d2-175d-4443-a1f7-2d0d32552c2c" />
+
 
 
 ## RESULT
